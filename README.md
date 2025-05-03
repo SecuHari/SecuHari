@@ -45,7 +45,7 @@
 
 ## 📬 Contact Me
 📩 **DM on Instagram**: [@secuhari_](https://www.instagram.com/secuhari_?igsh=MW5nMGk4Nm8wZ3Q5dA==)  
-📧 **Email (optional)**: `youremail@example.com`
+📧 **Email (optional)**: `hareeshrajput54107@gmail.com`
 
 ---
 
