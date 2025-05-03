@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/profile-banner.jpeg" width="400" alt="3D Developer Image" />
+  <img src="profile-banner.jpeg" width="400" alt="3D Developer Image" />
 </p>
 
 ---
