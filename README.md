@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/male-programmer-working-on-laptop-3892664-3242473.png" width="400" alt="3D Developer Image" />
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/profile-banner.jpeg" width="400" alt="3D Developer Image" />
 </p>
 
 ---
