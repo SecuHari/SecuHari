@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish Kumar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Web+Developer;OSCP+Learner;Penetration+Tester" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Web+Developer;Certified+Ethical+Hacker+Master;OSCP+Learner;Penetration+Tester" alt="Typing Animation" />
 </p>
 
 <p align="center">
