@@ -10,9 +10,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I'm currently working as an **Admission Counsellor** at **Creanovation Technologies Pvt Ltd**
-- 🌱 Learning **Offensive Security Certified Professional (OSCP)**
-- 💡 Passionate about **Ethical Hacking & Cybersecurity**
+I am a cybersecurity enthusiast currently working at Creanovation Technologies Pvt. Ltd. and pursuing a Bachelor's degree in Computer Applications. I have a strong interest in ethical hacking, vulnerability assessment, and network security.
+I have gained hands-on experience through bug bounty hunting, solving Capture The Flag (CTF) challenges, and an internship with Cyber Secure India. I’m currently preparing for the Offensive Security Certified Professional (OSCP) certification.
+With a growing passion for cybersecurity, I aspire to become a skilled Cybersecurity Engineer in the near future. I am committed to continuous learning and excited to contribute to innovative and security-focused teams while collaborating with like-minded professionals.
 - 👨‍💻 All my works are available on [LinkedIn](https://www.linkedin.com/in/hareesh-kumar-02045a339)
 
 ---
@@ -20,7 +20,7 @@
 ## 📱 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/hareesh-kumar-02045a339" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.instagram.com/secuhari_?igsh=MW5nMGk4Nm8wZ3Q5dA==" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.instagram.com/secuhari?igsh=MW5nMGk4Nm8wZ3Q5dA==" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ---
 
 ## 📬 Contact Me
-📩 **DM on Instagram**: [@secuhari_](https://www.instagram.com/secuhari_?igsh=MW5nMGk4Nm8wZ3Q5dA==)  
+📩 **DM on Instagram**: [@secuhari](https://www.instagram.com/secuhari?igsh=MW5nMGk4Nm8wZ3Q5dA==)  
 📧 **Email (optional)**: `hareeshrajput54107@gmail.com`
 
 ---
