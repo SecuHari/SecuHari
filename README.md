@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=S.H.E.E.R.A.H+%E2%86%92+Secure+Hacking+%26+Emerging+Exploit+Research+%26+Analysis+Hub" alt="SHEERAH Heading Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=S.H.E.E.R.A.H+%E2%86%92+Secure+Hacking+%26+Emerging+Exploit+Research+%26+Analysis+Hub" alt="SHEERAH Heading Animation" />
 </h1>
 
 <p align="center">
@@ -12,30 +12,23 @@
 
 ---
 
-## 🧑‍💻 About Me
-I am **Hareesh Kumar aka Sheerah**, a passionate **Cybersecurity Enthusiast**, currently working at *Creanovation Technologies Pvt. Ltd.* and pursuing a **Bachelor’s in Computer Applications (BCA)**.
+## ⚡ S.H.E.E.R.A.H — My Cybersecurity Vision
 
-🔒 **What I Do:**
+✨ **Meaning:** *Building a secure digital world through ethical hacking, exploit research & continuous learning.*
+
+---
+
+## 🧑‍💻 About Me
+
+I am **Hareesh Kumar aka Sheerah**, a passionate **Cybersecurity Enthusiast**, currently working at *Creanovation Technologies Pvt. Ltd.* and pursuing my **Bachelor’s in Computer Applications (BCA)**.
+
+🔐 **What I Do:**
 - Ethical Hacking & Penetration Testing 🐱‍💻
 - Vulnerability Assessment & Bug Bounty Hunting 💸
 - Capture The Flag (CTF) Challenges 🕵️‍♂️
 - Learning Offensive Security (OSCP Prep)
 
 🚀 **Vision:** *Breaking for Good. Securing for Better.*
-
----
-
-## ⚡ **S.H.E.E.R.A.H — My Cybersecurity Vision**
-
-> **S**ecure  
-> **H**acking &  
-> **E**merging  
-> **E**xploit  
-> **R**esearch &  
-> **A**nalysis  
-> **H**ub
-
-**Meaning:** Building a secure digital world through ethical hacking, exploit research & continuous learning.
 
 ---
 
