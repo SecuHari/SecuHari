@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=S.H.E.E.R.A.H+%E2%86%92+Secure+Hacking+%26+Emerging+Exploit+Research+%26+Analysis+Hub" alt="SHEERAH Heading Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&lines=S.H.E.E.R.A.H+%E2%86%92+Secure+Hacking+%26+Emerging+Exploit+Research+%26+Analysis+Hub" alt="SHEERAH Heading Animation" />
 </h1>
 
 <p align="center">
@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V1azJnbjQ4dHJ6c3Fla2ZlNmh0bmliZ2Zxejk3bmdhaXkwYzE0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" alt="Cybersecurity 3D Hacker Banner" />
 </p>
+
 
 ---
 
