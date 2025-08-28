@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/devopswithhari](https://github.com/devopswithhari)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **hareesh.devopswithhari@gmail.com**
+- 📫 How to reach me <a href="https://www.instagram.com/devopswithhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" /></a>
 
 ---
 
