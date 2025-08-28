@@ -1,77 +1,85 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&lines=S.H.E.E.R.A.H+%E2%86%92+Secure+Hacking+%26+Emerging+Exploit+Research+%26+Analysis+Hub" alt="SHEERAH Heading Animation" />
-</h1>
+<h1 align="center">Hey Everyone 👋, I'm DevOpsWithHari</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;DevOps+Engineer+(Trainee);Ongoing+Learning+Journey" alt="Typing Animation"/>
+</div>
+
+<h3 align="center">Aspiring DevOps Engineer | DevOps Engineer (Trainee / Ongoing Learning)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Hareesh+Kumar+aka+Sheerah;Cybersecurity+Enthusiast+%F0%9F%9A%80;Web+Developer+%F0%9F%92%BB;Certified+Ethical+Hacker+Master+%F0%9F%94%92;OSCP+Learner+%F0%9F%93%9D;Bug+Bounty+Hunter+%F0%9F%91%BD;Penetration+Tester+%F0%9F%9A%AB" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V1azJnbjQ4dHJ6c3Fla2ZlNmh0bmliZ2Zxejk3bmdhaXkwYzE0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" alt="Cybersecurity 3D Hacker Banner" />
-</p>
-
-
----
-
-## ⚡ S.H.E.E.R.A.H — My Cybersecurity Vision
-
-✨ **Meaning:** *Building a secure digital world through ethical hacking, exploit research & continuous learning.*
-
----
-
-## 🧑‍💻 About Me
-
-Hey there! I’m **Hareesh Kumar aka Sheerah**, a dedicated **Cybersecurity Enthusiast**, currently working at *Creanovation Technologies Pvt. Ltd.* while pursuing my **Bachelor’s in Computer Applications (BCA)**.
-
-🛡️ **What I do:**
-- Ethical Hacking & Penetration Testing 🐱‍💻
-- Vulnerability Assessment & Bug Bounty Hunting 💸
-- Capture The Flag (CTF) Challenges 🕵️‍♂️
-- Learning Offensive Security (OSCP Prep)
-
-🚀 **Motto:** *“Breaking for Good. Securing for Better.”*
-
----
-
-## 💼 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,linux,mysql,androidstudio,photoshop" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=secuhari&show_icons=true&theme=react" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secuhari&layout=compact&theme=react" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=secuhari&theme=react" width="95%" />
-</p>
-
----
-
-## 📱 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hareesh-kumar-02045a339" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <a href="https://github.com/devopswithhari">
+    <img src="https://img.shields.io/github/followers/devopswithhari?label=Follow&style=social" />
   </a>
-  <a href="https://www.instagram.com/secuhari" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  <a href="https://linkedin.com/in/hareesh-kumar-02045a339">
+    <img src="https://img.shields.io/badge/LinkedIn-Hareesh%20Kumar-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="https://www.instagram.com/devopswithhari">
+    <img src="https://img.shields.io/badge/Instagram-@devopswithhari-pink?logo=instagram&style=flat-square" />
   </a>
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devopswithhari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/devopswithhari](https://github.com/devopswithhari)  
+- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 📫 How to reach me **hareesh.devopswithhari@gmail.com**
+
 ---
 
-## 📬 Contact
-
-📩 **Instagram DM:** [@secuhari](https://www.instagram.com/secuhari)  
-📧 **Email:** `hareeshrajput54107@gmail.com`
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/hareesh-kumar-02045a339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/devopswithhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
 
 ---
 
-> 👀 *Visit my GitHub for more — transforming curiosity into cybersecurity power!* 🔐
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devopswithhari&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devopswithhari&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+---
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devopswithhari&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+
+### 👨‍💼 About Me & 🤝 Open to Collaborations
+
+🎤 Available for **Guest Sessions / Webinars**  
+🤝 Open to **Project Collaborations / Tech Collabs**  
+💼 Offering **DevOps Consulting / Mentorship (Learning)**  
+📧 Let’s chat: [hareesh.devopswithhari@gmail.com](mailto:hareesh.devopswithhari@gmail.com)
+
+> *"Aspiring DevOps Engineer on a continuous learning journey. Let’s automate and innovate the future, one pipeline at a time!"*
